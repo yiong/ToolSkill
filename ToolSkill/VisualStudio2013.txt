@@ -1,3 +1,9 @@
+******************************************************
 For Microsoft Visual Studio 2013 Ultimate!
 It has altered!
 It has altered again!
+******************************************************
+Shortcut Key List
+ctrl+k,ctrl+c  -- for annotation
+ctrl+k,ctrl+u  --remove annotation
+ctrl+k,ctrl+f  --for formatting
