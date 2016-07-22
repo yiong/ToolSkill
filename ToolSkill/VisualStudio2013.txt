@@ -7,3 +7,20 @@ Shortcut Key List
 ctrl+k,ctrl+c  -- for annotation
 ctrl+k,ctrl+u  --remove annotation
 ctrl+k,ctrl+f  --for formatting
+ctrl+c  --if you want to copy an entire line of code,need to move the cursor to the blank,rather than having to select the entire line.The rule is also  suitable for  crop(ctrl+x) and delete(ctrl+l).
+ctrl+z --for revoking the operation.
+ctrl+y --for rollback  revoking the operation.
+ctrl+enter --in the current row ,insert a blank line above.
+ctrl+shift+enter --insert a blank line under the current row.
+ctrl+shift+Home --selected from the cursor between the first line of code.
+ctrl+shift+End --selected from the cursor between the end of each line of code.
+ctrl+j --invoke intellisense
+ctrl+table --open the IDE navigation,and get a bird's eye view.
+ctrl+m --qickly hide or display the current code.(press m for two).
+shift+alt+Enter --for full screen/exit full screen mode.
+F12 --jump to the definition
+shift+F12 --find all references
+ctrl+f --for searching
+ctrl+h  --for switchover
+ctrl+u --for lowercase
+ctrl+shift+u  --for uppercase
